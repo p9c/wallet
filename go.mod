@@ -10,7 +10,7 @@ require (
 	github.com/p9c/chainhash v0.0.2
 	github.com/p9c/logi v0.0.13
 	github.com/p9c/pod v0.2.22
-	github.com/p9c/rpc v0.0.16
+	github.com/p9c/rpc v0.0.17
 	github.com/p9c/util v0.0.18
 	github.com/p9c/wire v0.0.4
 	github.com/tstranex/gozmq v0.0.0-20160831212417-0daa84a596ba
